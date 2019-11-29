@@ -1,7 +1,5 @@
 # todoproject
 
-
-
 ## Contributing
 1. Fork Main Repo
 
