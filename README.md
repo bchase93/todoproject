@@ -1,7 +1,5 @@
 # todoproject
 
-
-
 ## Contributing
 1. Fork Main Repo
 
@@ -87,5 +85,6 @@ From the root directory, execute:
 ```
 firebase deploy --only functions
 ```
+
 
 
